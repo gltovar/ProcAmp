@@ -5,8 +5,20 @@
     "version": "1.0.0",
     "unity": "2018.3",
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gltovar/ProcAmp.git"
+    },
+    "homepage": "https://github.com/gltovar/ProcAmp",
     "dependencies": {
         "com.unity.ugui": "1.0.0",
         "com.unity.modules.video": "1.0.0"
-    }
+    },
+    "samples": [
+        {
+            "displayName": "ProcAmp Demo",
+            "description": "A demo scene that showcases all options of ProcAmp",
+            "path": "Samples~/Demo"
+        }
+    ]
 }
