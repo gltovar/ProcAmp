@@ -9,13 +9,27 @@ ProcAmp
 optional functionalities of video playback with the [VideoPlayer] component
 that is newly introduced in Unity 5.6.
 
-System Requirements
+------------------
+### Installation
+
+A) The Unity Package file
+
+B) Using the Unity Package Manager (Unity 2018.3 or higher, 2019 recommended)
+
+    Modify Packages.json add a new entry to dependencies:
+    {
+      "dependencies": {
+        "com.keijiro.procamp": "https://github.com/gltovar/ProcAmp.git#upm",
+      }
+    }
+
+### System Requirements
 -------------------
 
 - Unity 5.6
 
 ProcAmp is compatible with all the platforms that supports VideoPlayer. If you
-find any problem with compatibility, plaese report it to [Issues].
+find any problem with compatibility, please report it to [Issues].
 
 Features
 --------
