@@ -1,0 +1,17 @@
+{
+    "name": "ProcAmpEditor",
+    "references": [
+        "GUID:2d4404e01c1f9304fa22e4a09f9928c6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
