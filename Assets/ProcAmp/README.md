@@ -23,6 +23,13 @@ B) Using the Unity Package Manager (Unity 2018.3 or higher, 2019 recommended)
       }
     }
 
+### Change Log
+- 1.0.1
+  - Fixing ASMDEFs for editor compilation
+  - Removed demo scene from ProcAmp folder. Still available in samples option in package manager
+- 1.0.0
+  - inital commit
+
 ### System Requirements
 -------------------
 

@@ -2,7 +2,7 @@
     "name": "com.keijiro.procamp",
     "displayName": "ProcAmp",
     "description": "ProcAmp is a utility shader for adjusting videos. It's developed to provide optional functionalities of video playback with the VideoPlayer component that is newly introduced in Unity 5.6.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "2018.3",
     "license": "MIT",
     "repository": {
